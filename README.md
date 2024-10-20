@@ -8,7 +8,7 @@
 
 - 🎓 **Education**:
   - **Master’s in Automatic Systems** from Paris-Saclay University  
-  - **Engineering Degree in Automation** from National Polytechnic School of Agiers
+  - **Engineering Degree in Automation** from National Polytechnic School of Algiers
 - 💼 **Current Role**: R&D Robotics Engineer, focusing on autonomous robot navigation and control systems.
 
 ---
