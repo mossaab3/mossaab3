@@ -30,15 +30,16 @@
   - **Gazebo**
   - **MATLAB/Siumlink**
 
-- 🤖**Control Algorithms**:
+- ⚙️ **Control Algorithms**: 
   - **PID**
-- **MPC (Model Predictive Control)**
-- **Sliding Mode Control**
-- **LQR**
-- **H-Infinity Control**
--  **Tools**:
-* Git
-* Docker
+  - **MPC (Model Predictive Control)**
+  - **Sliding Mode Control**
+  - **LQR**
+  - **H-Infinity Control**
+- **🛠️ Tools**:
+  - **Git**
+  - **Docker**
+
 - **Hardware**: Arduino/ESP32, Pixhawk4, Raspberry Pi
 - **Multisensor Fusion**: EKF (Extended Kalman Filter), LIDAR, IMU, GPS
 
