@@ -26,10 +26,13 @@
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" style="border-radius: 20%;">&nbsp;
 
 - 💻 **Programming Languages**: C++ 🟦, Python 🐍
-- 🤖 **Robotics** :
+- 🤖 **Robotics** :  
   - **ROS2**
   - **Gazebo**
-  - **MATLAB/Siumlink**
+  - **Nav2**
+  - **Trajectory and Path Planning : A-star, RRT ...etc**
+  - **Navigation Algorithms**
+  
 
 - ⚙️ **Control Algorithms**: 
   - **PID**
@@ -37,6 +40,10 @@
   - **Sliding Mode Control**
   - **LQR**
   - **H-Infinity Control**
+  - **Stanley Controller**
+  - **Pure Pursuit Controller**
+
+
 - **🛠️ Tools**:
   - **Git**
   - **Docker**
