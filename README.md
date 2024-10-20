@@ -23,6 +23,7 @@
 <img src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" style="border-radius: 20%;">&nbsp;
 
 - 💻 **Programming Languages**: C++ 🟦, Python 🐍
 - 🤖 **Robotics** :
@@ -48,5 +49,5 @@
 
 ## 🤝 Let's Connect!
 
-- **LinkedIn**: [Mosaab Derbal](https://dz.linkedin.com/in/mosaab-derbal-6513801ba)
-- **Email**: mossaabder@gmail.com
+<a href="https://www.linkedin.com/in/mosaab-derbal-6513801ba/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt= "DERBAL-Mosaab" height="30" width="40"/></a>
+
